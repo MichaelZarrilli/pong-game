@@ -10,8 +10,8 @@ class Paddle(Turtle):
         self.penup()
         self.shape("square")
 
-    def poop(self):
-        self.__init__()
+   # def (self):
+   #     self.__init__()
 
 
 
